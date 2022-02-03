@@ -1,6 +1,6 @@
 # tic-tac-toe-Game
 
-## *Team Members*
+## *Members*
 
 1. Diksha Sharma
 2. Esha Agarwal
