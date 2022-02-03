@@ -6,6 +6,9 @@
 2. Esha Agarwal
 3. Gayatri Morey
 
+## *Deployment:*
+This project is live on: 🌎https://eshagarwal.github.io/TicTacToe/
+
 ## *Description*
 Fun tic-tac-toe Game using HTML, CSS and JAVASCRIPT 
 
